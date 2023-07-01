@@ -76,7 +76,7 @@ class StoryBrain {
     }
     else if(_StoryNumber == 3 && _StoryNumber == 4 && _StoryNumber == 5) {
       restart();
-    }
+    } //notworking
 
 
   }
